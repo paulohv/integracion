@@ -11,6 +11,7 @@
     --color_shadow: #00000033;
 }
 
+
 *{
     margin: 0;
     padding:0;
@@ -36,7 +37,7 @@ body{
 
 .hero{
     width: 100%;
-    min-height: 100vh;
+    min-height: 50vh;
     background: linear-gradient(180deg, var(--black2) 0%, var(--black1) 100%);
 }
 
